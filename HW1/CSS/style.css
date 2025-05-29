@@ -1,0 +1,69 @@
+/*GUI Assignment: Creating Your First Web Page. 
+I created a daily planner where you can 
+enter all your to do lists for the day 
+and check it off as the day goes on. 
+using celtics theme color */
+
+#head1{
+    text-align: center;
+    border-width: 7px;
+    border-color: green;
+    text-shadow: 2px 3px 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: green;
+    border-width: 4px;
+    border-style: dashed;
+    color: green;
+    margin: 50px 50px;
+    /*main purpose was to center the heading and add a border. */
+}
+th{
+    padding-left: 80px;
+    padding-right: 80px;
+
+    /*main purpose was to space out hours list and completion  */
+}
+
+#img1{
+    align-items: center;
+    height: 50px;
+    padding-top: 2px;
+    border-color: green;
+    border-style: solid;
+    border-width: 2px;
+    /*main purpose was to be able to fit on the same h1 border and align */
+
+}
+#link1{
+    padding-bottom: 15px;
+}
+#log{
+    border-color:green;
+    border-width: 5px;
+    border-style: solid;
+    align-items: center;
+    display: contents;
+    height: auto;
+    width: auto;
+    font-size: 20px;
+}
+/*main purpose was to make sure the entire table had a border */
+
+tr{
+    border-color: green;
+    border-style: solid;
+    border-width: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    align-items: center;
+    
+}
+.txt{
+    width: 1000px;
+    overflow: hidden;
+    font-size: 120px;
+    text-align: center;
+}
+
+/*main purpose was to center and space out every row and be big enough to see it  */
