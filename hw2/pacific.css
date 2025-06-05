@@ -2,7 +2,7 @@
 body{
 	margin: 0;
 	background:repeat-x top center 
-	url("ptrbackground.jpg"),rgb(0, 86, 159);
+	url("/ptrbackground.jpg"),rgb(0, 86, 159);
 	background-size: 100% 97.5;
 	}
 header{
